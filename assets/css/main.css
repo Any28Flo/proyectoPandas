@@ -1,6 +1,9 @@
+.principal{
+  font-family: 'Titillium Web', sans-serif;
+}
 .menu{
   background-color:  #FA8072;
-  font-family: 'Titillium Web', sans-serif;
+
   /*display: inline;*/
 }
 .opciones{
@@ -13,9 +16,18 @@
 .primera{
   padding-left: 50px;
 }
-.img{
+img{
   display: inline-block;
   margin: 30px 30px 30px 30px;
   height: 150px;
   width: 150px;
+  border: solid 3px black;
+}
+#contenidoUno{
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  margin: 30px 30px 30px 30px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: justify;
 }
