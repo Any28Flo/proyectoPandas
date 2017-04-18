@@ -1,10 +1,9 @@
 .principal{
   font-family: 'Titillium Web', sans-serif;
+  background-color: #F5CBA7;
 }
 .menu{
   background-color:  #FA8072;
-
-  /*display: inline;*/
 }
 .opciones{
   display: inline-block;
@@ -30,4 +29,13 @@ img{
   margin: 30px 30px 30px 30px;
   font-family: 'Titillium Web', sans-serif;
   text-align: justify;
+}
+.opcionesDos{
+  display: inline-block;
+  background-color: #FA8072;
+  margin: 40px 20px 20px 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 30px 30px 30px 30px;
+
 }
