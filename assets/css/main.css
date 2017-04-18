@@ -10,7 +10,6 @@
   padding: 30px 30px 30px 30px;
   text-decoration: underline;
   font-size: 20px;
-
 }
 .primera{
   padding-left: 50px;
@@ -21,14 +20,25 @@ img{
   height: 150px;
   width: 150px;
   border: solid 3px black;
+  margin-left:  100px;
 }
 #contenidoUno{
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  margin-left:  100px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: justify;
+
+}
+#contenidoDos{
   height: 400px;
   width: 400px;
   display: inline-block;
   margin: 30px 30px 30px 30px;
   font-family: 'Titillium Web', sans-serif;
   text-align: justify;
+  margin-left auto y margin-right:auto
 }
 .opcionesDos{
   display: inline-block;
@@ -37,5 +47,10 @@ img{
   padding-left: 100px;
   padding-right: 100px;
   margin: 30px 30px 30px 30px;
-
+  margin-left:  100px;
 }
+.close {
+    position: absolute;
+    color: #f1f1f1;
+    font-size: 40px;
+    }
