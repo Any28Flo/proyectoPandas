@@ -1,0 +1,21 @@
+.menu{
+  background-color:  #FA8072;
+  font-family: 'Titillium Web', sans-serif;
+  /*display: inline;*/
+}
+.opciones{
+  display: inline-block;
+  padding: 30px 30px 30px 30px;
+  text-decoration: underline;
+  font-size: 20px;
+
+}
+.primera{
+  padding-left: 50px;
+}
+.img{
+  display: inline-block;
+  margin: 30px 30px 30px 30px;
+  height: 150px;
+  width: 150px;
+}
